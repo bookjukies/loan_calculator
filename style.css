@@ -1,0 +1,20 @@
+.test {
+    width: 50px;
+    height: 50px;
+    background-color: blueviolet;
+    position: absolute;
+}
+
+.display-container {
+    background-color: rgb(141, 141, 242);
+    width: 100px;
+    height: 30px;
+}
+
+.controller-container {
+    position: relative;
+    width: 600px;
+    height: 80px;
+    background-color: yellow;
+
+}
